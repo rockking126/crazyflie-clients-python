@@ -1,4 +1,4 @@
-# Crazyflie PC client
+# Crazyflie PC 端程序
 
 The Crazyflie PC client enables flashing and controlling the Crazyflie.
 There's also a Python library that can be integrated into other applications
@@ -6,12 +6,12 @@ where you would like to use the Crazyflie.
 
 For more info see our [wiki](http://wiki.bitcraze.se/ "Bitcraze Wiki").
 
-Installation
+安装
 ------------
 
-## Linux
+## Linux平台下
 
-To install the Crazyflie PC client in Linux, you can run the setup script with:
+要在Linux中安装 Crazyflie PC client , 运行以下脚本:
 
 ```sudo setup.sh```
 
@@ -20,14 +20,14 @@ the Crazyradio and setup the permissions so that the current user can use the
 radio without root permissions after restarting the computer. For further
 instructions on how to install manually, see below.
 
-## Windows
+## Windows 平台下
 
 To install the Crazyflie PC client in Windows, download the installation
 program from the [binary download
 page](http://wiki.bitcraze.se/projects:crazyflie:binaries:index)."Crazyflie
 client" will be added to the start menu.
 
-## Mac OSX
+## Mac OSX 平台下
 
 ### Using homebrew
 **IMPORTANT NOTE**: The following will use
